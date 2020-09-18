@@ -1,4 +1,4 @@
-## Seminario de investigación científica: Marco conceptual y revisión de la literatura 
+# Seminario de investigación científica: Marco conceptual y revisión de la literatura 
 
 Andrés G. Marrugo, Ph.D.          
 *Universidad Tecnológica de Bolívar*
