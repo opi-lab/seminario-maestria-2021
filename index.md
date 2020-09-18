@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Seminario de investigación científica: Marco conceptual y revisión de la literatura 
 
-You can use the [editor on GitHub](https://github.com/opi-lab/seminario-maestria/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Andrés G. Marrugo, Ph.D.          
+*Universidad Tecnológica de Bolívar*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+September, 2020
 
-### Markdown
+##  Descripción del módulo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+El Seminario de Investigación Científica es una herramienta diseñada por la Universidad Tecnológica de Bolívar para facilitar a los estudiantes que han tenido dificultad en culminar su trabajos de grado de Maestría la terminación de su entregable final requisito de grado.
 
-```markdown
-Syntax highlighted code block
+En particular, en este módulo se pretende, en primer lugar, identificar el marco conceptual y elementos teóricos que sustentan el problema de investigación  del estudiante. En segundo lugar, se implementarán técnicas de revisión de literatura relacionada utilizando bases de datos electrónicas y otras fuentes. Se discutirán maneras de buscar fuentes útiles y cómo reducir las fuentes a un número manejable.
 
-# Header 1
-## Header 2
-### Header 3
+El módulo se desarrolla en forma de taller, donde los estudiantes presentarán sus avances de investigación y con la asesoría del docente del módulo plantean el alcance del entregable del seminario
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Plan de curso
 
-**Bold** and _Italic_ and `Code` text
+### Sesión 1
 
-[Link](url) and ![Image](src)
-```
+- [Diapositivas presentación 1](https://www.dropbox.com/s/l6dg9h8z76foejh/Lec-01-the-conceptual-framework.pdf?dl=0)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Entregable 1: Diagrama del marco conceptual](https://www.dropbox.com/request/5ZKtEgrqGVMq5MsZw9G6)
 
-### Jekyll Themes
+### Sesión 2
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/opi-lab/seminario-maestria/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Entregable 2: Marco conceptual en forma narrativa](https://www.dropbox.com/request/41CMpvEE5jj4P3fDbKCm)
 
-### Support or Contact
+- [Diapositivas presentación 2](https://www.dropbox.com/s/zi37dl8vpeacgd0/Lec-02-the-literature-review.pdf?dl=0)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Sesión 3
+
+- [Diapositivas presentación 2](https://www.dropbox.com/s/zi37dl8vpeacgd0/Lec-02-the-literature-review.pdf?dl=0)
+
