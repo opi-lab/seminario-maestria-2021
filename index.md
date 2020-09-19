@@ -20,7 +20,7 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 - [Diapositivas presentación 1](https://www.dropbox.com/s/l6dg9h8z76foejh/Lec-01-the-conceptual-framework.pdf?dl=0)
 
--[The Research Canvas](https://www.drjohnlatham.com/wp-content/uploads/2019/10/Research_Canvas_2-3_191028.pdf)
+- [The Research Canvas](https://www.drjohnlatham.com/wp-content/uploads/2019/10/Research_Canvas_2-3_191028.pdf)
 
 - [Entregable 1: Diagrama del marco conceptual](https://www.dropbox.com/request/5ZKtEgrqGVMq5MsZw9G6)
 
