@@ -34,3 +34,5 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 - [Diapositivas presentación 2](https://www.dropbox.com/s/zi37dl8vpeacgd0/Lec-02-the-literature-review.pdf?dl=0)
 
+- [Entregable 3: Artículo de revisión de la literatura](https://www.dropbox.com/request/7HVL1b61xGGYncSTjAX9)
+
