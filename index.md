@@ -30,6 +30,8 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 - [Diapositivas presentación 2](https://www.dropbox.com/s/zi37dl8vpeacgd0/Lec-02-the-literature-review.pdf?dl=0)
 
+- [Plantilla revisión de la literatura](https://www.dropbox.com/s/l63utv8k9mcca4t/Plantilla%20para%20la%20revisi%C3%B3n%20de%20la%20literatura.docx?dl=0)
+
 ### Sesión 3
 
 - [Diapositivas presentación 2](https://www.dropbox.com/s/zi37dl8vpeacgd0/Lec-02-the-literature-review.pdf?dl=0)
