@@ -34,7 +34,7 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 ### Sesión 4 (final)
 
-- [Diapositivas presentación 3](https://www.dropbox.com/s/3aq5cxfy5as9dbb/Lec-03-summary.key?dl=0)
+- [Diapositivas presentación 3](https://www.dropbox.com/s/cjbsg6x0hcgblmv/Lec-03-summary.pdf?dl=0)
 
 - [Entregable 3: Artículo de revisión de la literatura](https://www.dropbox.com/request/7HVL1b61xGGYncSTjAX9)
 
