@@ -24,7 +24,7 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 - [Entregable 1: Diagrama del marco conceptual](https://www.dropbox.com/request/5ZKtEgrqGVMq5MsZw9G6)
 
-### Sesión 2
+### Sesión 2 y 3
 
 - [Entregable 2: Marco conceptual en forma narrativa](https://www.dropbox.com/request/41CMpvEE5jj4P3fDbKCm)
 
@@ -32,9 +32,15 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 - [Plantilla revisión de la literatura](https://www.dropbox.com/s/l63utv8k9mcca4t/Plantilla%20para%20la%20revisi%C3%B3n%20de%20la%20literatura.docx?dl=0)
 
-### Sesión 3
+### Sesión 4 (final)
 
-- [Diapositivas presentación 2](https://www.dropbox.com/s/zi37dl8vpeacgd0/Lec-02-the-literature-review.pdf?dl=0)
+- [Diapositivas presentación 3](https://www.dropbox.com/s/3aq5cxfy5as9dbb/Lec-03-summary.key?dl=0)
 
 - [Entregable 3: Artículo de revisión de la literatura](https://www.dropbox.com/request/7HVL1b61xGGYncSTjAX9)
+
+#### Enlaces a los artículos presentados en la última sesión
+
+- [Artículo de revisión Marrugo, 2020](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-9-B60)
+
+- [Artículo de investigación Altamar-Mercado, 2020](https://arxiv.org/pdf/1901.08153)
 
