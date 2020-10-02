@@ -26,7 +26,7 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 - [Entregable 1: Diagrama del marco conceptual](https://www.dropbox.com/request/5ZKtEgrqGVMq5MsZw9G6)
 
--[Entregable 1: Diagrama del marco conceptual (Cohorte 3)](https://www.dropbox.com/request/JzvMCgzcmxpvGkl11Ddy)
+- [Entregable 1: Diagrama del marco conceptual (Cohorte 3)](https://www.dropbox.com/request/JzvMCgzcmxpvGkl11Ddy)
 
 ### Sesión 2 y 3
 
@@ -44,7 +44,7 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 - [Entregable 3: Artículo de revisión de la literatura](https://www.dropbox.com/request/7HVL1b61xGGYncSTjAX9)
 
--[Entregable 3: Artículo de revisión de la literatura (Cohorte 3)](https://www.dropbox.com/request/Kp1zMMzpsz20MUknJwjR)
+- [Entregable 3: Artículo de revisión de la literatura (Cohorte 3)](https://www.dropbox.com/request/Kp1zMMzpsz20MUknJwjR)
 
 #### Enlaces a los artículos presentados en la última sesión
 
