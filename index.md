@@ -13,6 +13,8 @@ En particular, en este módulo se pretende, en primer lugar, identificar el marc
 
 El módulo se desarrolla en forma de taller, donde los estudiantes presentarán sus avances de investigación y con la asesoría del docente del módulo plantean el alcance del entregable del seminario
 
+**Nota:** Las actividades a entregar enviarlas con el formato Nombre-Apellido-nombre-actividad.pdf.
+
 
 ## Plan de curso
 
@@ -24,9 +26,13 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 - [Entregable 1: Diagrama del marco conceptual](https://www.dropbox.com/request/5ZKtEgrqGVMq5MsZw9G6)
 
+-[Entregable 1: Diagrama del marco conceptual (Cohorte 3)](https://www.dropbox.com/request/JzvMCgzcmxpvGkl11Ddy)
+
 ### Sesión 2 y 3
 
 - [Entregable 2: Marco conceptual en forma narrativa](https://www.dropbox.com/request/41CMpvEE5jj4P3fDbKCm)
+
+- [Entregable 2: Marco conceptual en forma narrativa (Cohorte 3)](https://www.dropbox.com/request/Bb8a9HsI1G62dwkIbdRa)
 
 - [Diapositivas presentación 2](https://www.dropbox.com/s/zi37dl8vpeacgd0/Lec-02-the-literature-review.pdf?dl=0)
 
@@ -37,6 +43,8 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 - [Diapositivas presentación 3](https://www.dropbox.com/s/cjbsg6x0hcgblmv/Lec-03-summary.pdf?dl=0)
 
 - [Entregable 3: Artículo de revisión de la literatura](https://www.dropbox.com/request/7HVL1b61xGGYncSTjAX9)
+
+-[Entregable 3: Artículo de revisión de la literatura (Cohorte 3)](https://www.dropbox.com/request/Kp1zMMzpsz20MUknJwjR)
 
 #### Enlaces a los artículos presentados en la última sesión
 
