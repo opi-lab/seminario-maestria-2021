@@ -40,6 +40,8 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 ### Sesión 4 (final)
 
+- [Entregable 2.5: Esqueleto (outline) del artículo de investigación (cohorte 3)](https://www.dropbox.com/request/G158AOTmpwus5wUITik2)
+
 - [Diapositivas presentación 3](https://www.dropbox.com/s/cjbsg6x0hcgblmv/Lec-03-summary.pdf?dl=0)
 
 - [Entregable 3: Artículo de revisión de la literatura](https://www.dropbox.com/request/7HVL1b61xGGYncSTjAX9)
