@@ -38,9 +38,10 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 - [Plantilla revisión de la literatura](https://www.dropbox.com/s/l63utv8k9mcca4t/Plantilla%20para%20la%20revisi%C3%B3n%20de%20la%20literatura.docx?dl=0)
 
-### Sesión 4 (final)
-
 - [Entregable 2.5: Esqueleto (outline) del artículo de investigación (cohorte 3)](https://www.dropbox.com/request/G158AOTmpwus5wUITik2)
+
+
+### Sesión 4 (final)
 
 - [Diapositivas presentación 3](https://www.dropbox.com/s/cjbsg6x0hcgblmv/Lec-03-summary.pdf?dl=0)
 
