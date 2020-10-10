@@ -45,7 +45,7 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 - [Diapositivas presentación 3](https://www.dropbox.com/s/cjbsg6x0hcgblmv/Lec-03-summary.pdf?dl=0)
 
-- [Entregable 3: Artículo de revisión de la literatura](https://www.dropbox.com/request/7HVL1b61xGGYncSTjAX9)
+- [Entregable 3: Artículo de revisión de la literatura](https://savio.utb.edu.co/mod/assign/view.php?id=1008416)
 
 - [Entregable 3: Artículo de revisión de la literatura (Cohorte 3)](https://www.dropbox.com/request/Kp1zMMzpsz20MUknJwjR)
 
