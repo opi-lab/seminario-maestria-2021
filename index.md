@@ -47,7 +47,7 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 - [Entregable 3: Artículo de revisión de la literatura](https://savio.utb.edu.co/mod/assign/view.php?id=1008416)
 
-- [Entregable 3: Artículo de revisión de la literatura (Cohorte 3)](https://www.dropbox.com/request/Kp1zMMzpsz20MUknJwjR)
+- [Entregable 3: Artículo de revisión de la literatura (Cohorte 3)](https://savio.utb.edu.co/mod/assign/view.php?id=1011737)
 
 #### Enlaces a los artículos presentados en la última sesión
 
