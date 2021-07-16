@@ -35,6 +35,8 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 - [Plantilla revisión de la literatura](https://www.dropbox.com/s/l63utv8k9mcca4t/Plantilla%20para%20la%20revisi%C3%B3n%20de%20la%20literatura.docx?dl=0)
 
+- [Guía para la escritura de artículos](https://www.dropbox.com/s/ofr6vare4emgy7w/Productive_Academic_Journal_Article_Writing_Guide.pdf?dl=0) 
+
 - [Entregable 3: Esqueleto (outline) del artículo de investigación](https://savio.utb.edu.co/mod/assign/view.php?id=1099927)
 
 
