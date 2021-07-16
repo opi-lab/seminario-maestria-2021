@@ -20,27 +20,27 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 ### Sesión 1
 
-- [Diapositivas presentación 1](https://www.dropbox.com/s/l6dg9h8z76foejh/Lec-01-the-conceptual-framework.pdf?dl=0)
+- [Diapositivas presentación 1](https://www.dropbox.com/s/pgvizu0svcgnfry/Lec-01-the-conceptual-framework.pdf?dl=0)
 
 - [The Research Canvas](https://www.drjohnlatham.com/wp-content/uploads/2019/10/Research_Canvas_2-3_191028.pdf)
 
-- [Entregable 1: Diagrama del marco conceptual](https://www.dropbox.com/request/5ZKtEgrqGVMq5MsZw9G6)
+- [Entregable 1: Diagrama del marco conceptual](https://savio.utb.edu.co/mod/assign/view.php?id=1099913)
 
 
 ### Sesión 2 y 3
 
-- [Diapositivas presentación 2](https://www.dropbox.com/s/zi37dl8vpeacgd0/Lec-02-the-literature-review.pdf?dl=0)
+- [Diapositivas presentación 2](https://www.dropbox.com/s/rfd8x8cco4yb7xm/Lec-02-the-literature-review.pdf?dl=0)
 
-- [Entregable 2: Marco conceptual en forma narrativa](https://www.dropbox.com/request/41CMpvEE5jj4P3fDbKCm)
+- [Entregable 2: Marco conceptual en forma narrativa]()
 
 - [Plantilla revisión de la literatura](https://www.dropbox.com/s/l63utv8k9mcca4t/Plantilla%20para%20la%20revisi%C3%B3n%20de%20la%20literatura.docx?dl=0)
 
-- [Entregable 3: Esqueleto (outline) del artículo de investigación](https://www.dropbox.com/request/G158AOTmpwus5wUITik2)
+- [Entregable 3: Esqueleto (outline) del artículo de investigación]()
 
 
 ### Sesión 4 (final)
 
-- [Diapositivas presentación 3](https://www.dropbox.com/s/cjbsg6x0hcgblmv/Lec-03-summary.pdf?dl=0)
+- [Diapositivas presentación 3](https://www.dropbox.com/s/50ycrjrpblfrdxu/Lec-03-summary.pdf?dl=0)
 
 <!-- - [Entregable 3: Artículo de revisión de la literatura](https://savio.utb.edu.co/mod/assign/view.php?id=1008416) -->
 
