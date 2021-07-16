@@ -31,11 +31,11 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 - [Diapositivas presentación 2](https://www.dropbox.com/s/rfd8x8cco4yb7xm/Lec-02-the-literature-review.pdf?dl=0)
 
-- [Entregable 2: Marco conceptual en forma narrativa]()
+- [Entregable 2: Marco conceptual en forma narrativa](https://savio.utb.edu.co/mod/assign/view.php?id=1099926)
 
 - [Plantilla revisión de la literatura](https://www.dropbox.com/s/l63utv8k9mcca4t/Plantilla%20para%20la%20revisi%C3%B3n%20de%20la%20literatura.docx?dl=0)
 
-- [Entregable 3: Esqueleto (outline) del artículo de investigación]()
+- [Entregable 3: Esqueleto (outline) del artículo de investigación](https://savio.utb.edu.co/mod/assign/view.php?id=1099927)
 
 
 ### Sesión 4 (final)
