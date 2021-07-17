@@ -47,9 +47,11 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 <!-- - [Entregable 3: Artículo de revisión de la literatura](https://savio.utb.edu.co/mod/assign/view.php?id=1008416) -->
 
 
-#### Enlaces a los artículos presentados en la última sesión
+#### Enlaces a los artículos presentados como ejemplo
 
 - [Artículo de revisión Marrugo, 2020](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-9-B60)
+
+- [Artículo original Marrugo, 2021](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-11-17316&id=451245)
 
 - [Artículo de investigación Altamar-Mercado, 2019](https://arxiv.org/pdf/1901.08153)
 
