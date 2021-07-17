@@ -51,7 +51,7 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 - [Artículo de revisión Marrugo, 2020](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-9-B60)
 
-- [Artículo original Marrugo, 2021](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-11-17316&id=451245)
+- [Artículo de investigación original Marrugo, 2021](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-11-17316&id=451245)
 
-- [Artículo de investigación Altamar-Mercado, 2019](https://arxiv.org/pdf/1901.08153)
+- [Artículo de investigación original Altamar-Mercado, 2019](https://arxiv.org/pdf/1901.08153)
 
