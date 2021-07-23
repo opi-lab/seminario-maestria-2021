@@ -37,7 +37,18 @@ El módulo se desarrolla en forma de taller, donde los estudiantes presentarán 
 
 - [Guía para la escritura de artículos](https://www.dropbox.com/s/ofr6vare4emgy7w/Productive_Academic_Journal_Article_Writing_Guide.pdf?dl=0) 
 
+
+
+#### Requisitos del esqueleto (outline).
+Entregar en formato PDF el esqueleto del artículo de revisión que presentará como parte del requisito del seminario. 
+
 - [Entregable 3: Esqueleto (outline) del artículo de investigación](https://savio.utb.edu.co/mod/assign/view.php?id=1099927)
+
+El esqueleto deberá cumplir con los siguientes requerimientos mínimos:    
+- Tener desarrollado las distintas secciones y subsecciones sugeridas en la plantilla.    
+- Describir el alcance del artículo, características de las fuentes a consultar, criterios de exclusión, público objetivo, entre otros aspectos generales del artículo.    
+- Contar con mínimo 10 referencias específicas del tópico de investigación citadas en el documento y con una breve descripción de cada una, pros, contras y otros comentarios. Ver ejemplos que les compartí en clase.    
+- Una breve descripción de una conclusión tentativa a partir de la lectura de los artículos.     
 
 
 ### Sesión 4 (final)
